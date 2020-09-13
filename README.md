@@ -1,0 +1,1 @@
+# Magic_Squares_Solver
